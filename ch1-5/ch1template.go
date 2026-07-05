@@ -40,7 +40,7 @@ func main() {
 	//GOATed variable declaration := type inference
 	messageStart := "Happy birthday! You are now"
 	age := 21
-	messageEnd := "years old!"
+	messageEnd := "years  old!"
 	fmt.Println(messageStart, age, messageEnd)
 
 	numMessagesFromDoris := 72
